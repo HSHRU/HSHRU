@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HSHRU
-- 👀 I’m interested in Data 
+- 👀 I’m interested in Data processing, analysing, exploring variuos data visualizations
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Analytics projects
+- 💞️ I’m looking to collaborate on Data related projects
 - 📫 How to reach me : You just need to mail me!
 
 <!---
